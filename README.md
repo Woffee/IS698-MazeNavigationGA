@@ -16,3 +16,7 @@ Weights:
 ```
 
 ![Output2](output/medium_maze2.gif)
+
+## Reference
+
+https://github.com/hardmaru/estool
