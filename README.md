@@ -1,6 +1,8 @@
 # IS698-MazeNavigationGA
 
-This is the Assignment-4 for IS-698
+This is the Assignment-4 for IS-698:
+
+[Assignment4_Maze_Navigation_with_Genetic_Algorithm.ipynb](Assignment4_Maze_Navigation_with_Genetic_Algorithm.ipynb)
 
 by Wenbo Wang
 
